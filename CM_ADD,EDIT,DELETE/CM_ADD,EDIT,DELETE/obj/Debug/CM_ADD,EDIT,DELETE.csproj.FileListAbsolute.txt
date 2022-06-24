@@ -1,0 +1,24 @@
+C:\Users\jenso\source\repos\CM_ADD,EDIT,DELETE\CM_ADD,EDIT,DELETE\bin\Debug\WindowsForms_Calling Method.exe.config
+C:\Users\jenso\source\repos\CM_ADD,EDIT,DELETE\CM_ADD,EDIT,DELETE\bin\Debug\WindowsForms_Calling Method.exe
+C:\Users\jenso\source\repos\CM_ADD,EDIT,DELETE\CM_ADD,EDIT,DELETE\bin\Debug\WindowsForms_Calling Method.pdb
+C:\Users\jenso\source\repos\CM_ADD,EDIT,DELETE\CM_ADD,EDIT,DELETE\bin\Debug\MySql.Data.dll
+C:\Users\jenso\source\repos\CM_ADD,EDIT,DELETE\CM_ADD,EDIT,DELETE\bin\Debug\Google.Protobuf.dll
+C:\Users\jenso\source\repos\CM_ADD,EDIT,DELETE\CM_ADD,EDIT,DELETE\bin\Debug\ZstdNet.dll
+C:\Users\jenso\source\repos\CM_ADD,EDIT,DELETE\CM_ADD,EDIT,DELETE\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\jenso\source\repos\CM_ADD,EDIT,DELETE\CM_ADD,EDIT,DELETE\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\jenso\source\repos\CM_ADD,EDIT,DELETE\CM_ADD,EDIT,DELETE\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\jenso\source\repos\CM_ADD,EDIT,DELETE\CM_ADD,EDIT,DELETE\bin\Debug\System.Memory.dll
+C:\Users\jenso\source\repos\CM_ADD,EDIT,DELETE\CM_ADD,EDIT,DELETE\bin\Debug\System.Buffers.dll
+C:\Users\jenso\source\repos\CM_ADD,EDIT,DELETE\CM_ADD,EDIT,DELETE\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\jenso\source\repos\CM_ADD,EDIT,DELETE\CM_ADD,EDIT,DELETE\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\jenso\source\repos\CM_ADD,EDIT,DELETE\CM_ADD,EDIT,DELETE\bin\Debug\MySql.Data.xml
+C:\Users\jenso\source\repos\CM_ADD,EDIT,DELETE\CM_ADD,EDIT,DELETE\obj\Debug\CM_ADD,EDIT,DELETE.csproj.AssemblyReference.cache
+C:\Users\jenso\source\repos\CM_ADD,EDIT,DELETE\CM_ADD,EDIT,DELETE\obj\Debug\CM_ADD,EDIT,DELETE.csproj.SuggestedBindingRedirects.cache
+C:\Users\jenso\source\repos\CM_ADD,EDIT,DELETE\CM_ADD,EDIT,DELETE\obj\Debug\WindowsForms_Calling Method.exe.config
+C:\Users\jenso\source\repos\CM_ADD,EDIT,DELETE\CM_ADD,EDIT,DELETE\obj\Debug\WindowsForms_Calling_Method.Form1.resources
+C:\Users\jenso\source\repos\CM_ADD,EDIT,DELETE\CM_ADD,EDIT,DELETE\obj\Debug\WindowsForms_Calling_Method.Properties.Resources.resources
+C:\Users\jenso\source\repos\CM_ADD,EDIT,DELETE\CM_ADD,EDIT,DELETE\obj\Debug\CM_ADD,EDIT,DELETE.csproj.GenerateResource.cache
+C:\Users\jenso\source\repos\CM_ADD,EDIT,DELETE\CM_ADD,EDIT,DELETE\obj\Debug\CM_ADD,EDIT,DELETE.csproj.CoreCompileInputs.cache
+C:\Users\jenso\source\repos\CM_ADD,EDIT,DELETE\CM_ADD,EDIT,DELETE\obj\Debug\CM_ADD,EDIT,DELETE.csproj.CopyComplete
+C:\Users\jenso\source\repos\CM_ADD,EDIT,DELETE\CM_ADD,EDIT,DELETE\obj\Debug\WindowsForms_Calling Method.exe
+C:\Users\jenso\source\repos\CM_ADD,EDIT,DELETE\CM_ADD,EDIT,DELETE\obj\Debug\WindowsForms_Calling Method.pdb
